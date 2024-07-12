@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zealousideal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Zealousideal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zealousideal&show_icons=true&locale=en&theme=midnight-purple" alt="Zealousideal" /></p>
 
