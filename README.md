@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Zealousideal&show_icons=true&locale=en&layout=compact&theme=midnight-purple)
+| Most Used Languages | GitHub Stats |
+|---------------------|-------------|
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Zealousideal&show_icons=true&locale=en&layout=compact&theme=midnight-purple) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zealousideal&show_icons=true&locale=en&theme=midnight-purple) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zealousideal&show_icons=true&locale=en&theme=midnight-purple)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Zealousideal&theme=midnight-purple)
+
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Zealousideal&theme=midnight-purple)
 
