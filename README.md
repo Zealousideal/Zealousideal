@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zealousideal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Most Used Languages" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Zealousideal&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" style="width: 48%;"/>
